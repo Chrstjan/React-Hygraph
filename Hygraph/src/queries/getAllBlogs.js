@@ -1,4 +1,7 @@
-const allBlogs = `query MyQuery {
+// for getting single items
+
+
+const allBlogs = `query allBlogsQuery { 
   blogs {
     title
     id
